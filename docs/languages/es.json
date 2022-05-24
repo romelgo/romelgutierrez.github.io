@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "rol": "Desarrollador Front-end",
+    "description": "Apasionado de las nuevas tecnologías y en especial del ecosistema de CSS y      JavaScript.Mi abundante energía me alimenta en la búsqueda de muchos tereses,             aficiones, áreas de estudio y actividades artísticas. aprendo rápido,capaz de adquirir nuevas bilidades y hacer labarismos con diferentes proyectos y roles          con relativa facilidad. Me gusta desarrollar experiencia en una serie de áreas.a lo largo de mi vida y carrera."
+  },
+  "experience": {
+    "first-job-title": "Desarrollador Backend-end",
+    "first-job-dates": "Enero 1995 - Enero 2000",
+    "first-job-description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    "second-job-title": "Desarrollador Front-end",
+    "second-job-dates": "Feb 2000 - Mar 2005",
+    "second-job-description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    "last-job-title": "Desarrollador Front-end",
+    "last-job-dates": "Feb 2017 - Actualmente",
+    "last-job-description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+  }
+}
